@@ -21,6 +21,7 @@
 
 	<build>
 		<sourceDirectory>src/main/java</sourceDirectory>
+		<finalName>emaillist</finalName>
 		<resources>
 			<resource>
 				<directory>${project.basedir}/src/main/resources</directory>
